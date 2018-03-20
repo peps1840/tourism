@@ -1,0 +1,56 @@
+body{
+
+	background:url(images/night_desert_wallpaper.jpg);
+
+}
+a{
+	text-decoration:none;
+	color:brown;
+	font-weight:bold;
+	background:Cornsilk ;
+}
+ul{
+	width:100%;
+	margin-left:-40px;
+}
+li{
+
+	list-style-type:none;
+	background:linen;	
+
+}
+#contain
+{
+	width:700px;
+	height:400px;
+	background:-moz-linear-gradient(Beige ,Crimson );
+	float:left;
+
+}
+.ss
+{
+	background:Crimson;
+	
+}
+#top
+{
+	font-size:20pt;
+	font-family:geogea;
+	color:	 ;
+	text-align:center;
+
+
+	}
+#right
+	{
+		height:300px;
+		width:200px;
+	}
+#footer
+{
+	font-size:15pt;
+	color:white;
+	background: -moz-linear-gradient(chocolate,brown);
+	text-align:center;
+
+}
